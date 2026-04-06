@@ -79,10 +79,12 @@ Supply-Chain-Analytics/
 
 ## 🖼️ Dashboard Preview
 
-*(Add screenshots in the images folder and link them here)*
+*## 🎥 Project Demo
+
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Vwg9oOPNe7PJ3FxLvjPwLyeXTYgpgscb/view)*
 
 ```
-![Dashboard Overview](images/dashboard-overview.png)
+
 ```
 
 ---
