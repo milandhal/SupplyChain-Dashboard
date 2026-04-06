@@ -84,7 +84,7 @@ Supply-Chain-Analytics/
 [![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Vwg9oOPNe7PJ3FxLvjPwLyeXTYgpgscb/view)*
 
 ```
-
+![Dashboard](Screenshots/Screenshot%20(117).png)
 ```
 
 ---
