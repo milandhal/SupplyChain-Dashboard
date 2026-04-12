@@ -21,7 +21,6 @@ It visualizes key metrics such as inventory levels, supplier performance, order 
 ## 🧰 Tools & Technologies
 
 * **Power BI Desktop (.pbix)**
-* **Data Modeling & DAX**
 * **Data Cleaning & Transformation (Power Query)**
 * **Excel / CSV datasets (if applicable)**
 
