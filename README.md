@@ -81,7 +81,7 @@ Supply-Chain-Analytics/
 *## 🎥 Project Demo
 
 ## 🎥 Demo Video
-
+## Click to see the video
 [![Watch Demo](Screenshots/Screenshot%20(118).png)](https://drive.google.com/file/d/1Vwg9oOPNe7PJ3FxLvjPwLyeXTYgpgscb/view)
 ```
 ![Dashboard](Screenshots/Screenshot%20(117).png)
